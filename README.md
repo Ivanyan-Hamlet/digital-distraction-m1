@@ -45,3 +45,7 @@ figures/residuals_hist.png
 figures/top_features.csv
 
 notebooks/digital_distraction_baseline.ipynb
+## Plots
+![True vs Predicted](figures/true_vs_pred.png)
+![Residuals vs Predicted](figures/residuals_vs_pred.png)
+![Residuals distribution](figures/residuals_hist.png)
